@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T15:18:37.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aUGmYcd2q8bUWluQ4yKK" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T15:21:20.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jCc2dR5HJn_AwghnA96v" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2390" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="7170" dy="3770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -291,15 +291,6 @@
         </mxCell>
         <mxCell id="AJ_VUI1XPqa23FB4NZY7-239" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Catalogue 42 bibliothèques Archéo France&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="641" y="1057" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AJ_VUI1XPqa23FB4NZY7-242" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18.846153846153847;endSize=4.9653846153846155;dashed=1;dashPattern=12 12;strokeColor=none;fillColor=#FF2450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1711" y="749" as="sourcePoint" />
-            <mxPoint x="1811" y="749" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1731" y="749" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="AJ_VUI1XPqa23FB4NZY7-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-247" target="AJ_VUI1XPqa23FB4NZY7-253">
           <mxGeometry relative="1" as="geometry" />
@@ -876,15 +867,6 @@
         <mxCell id="AJ_VUI1XPqa23FB4NZY7-420" value="American Journal of Archaeology" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4089" y="1516.5" width="120" height="34.5" as="geometry" />
         </mxCell>
-        <mxCell id="AJ_VUI1XPqa23FB4NZY7-422" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18.846153846153847;endSize=4.9653846153846155;dashed=1;dashPattern=12 12;strokeColor=none;fillColor=#FF2450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2990" y="1227.94" as="sourcePoint" />
-            <mxPoint x="3090" y="1227.94" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3010" y="1227.94" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AJ_VUI1XPqa23FB4NZY7-423" value="Dictionnaire&lt;div style=&quot;font-size: 7px;&quot;&gt;méthodique de&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;l&#39;architecture&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;grecque et&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;romaine&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=7;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2004" y="1130.5" width="100" height="80" as="geometry" />
         </mxCell>
@@ -1415,6 +1397,21 @@
         </mxCell>
         <mxCell id="AJ_VUI1XPqa23FB4NZY7-655" value="???" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4260" y="1173.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-656" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="301.5" width="1740" height="1168.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-658" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1780.5" y="429" width="547" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-660" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2410" y="90" width="690" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-661" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2410" y="895" width="690" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-662" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3150" y="216.75" width="1410" height="1413.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
