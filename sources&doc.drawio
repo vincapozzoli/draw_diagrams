@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T14:52:37.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rUpuUtam9QlZ0ZsRuSY5" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T14:55:44.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9ezZPIs1brRkoQV0skNy" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3585" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -812,6 +812,69 @@
             <mxPoint x="2903" y="1593.5" as="sourcePoint" />
             <mxPoint x="2956" y="1571.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-400" target="AJ_VUI1XPqa23FB4NZY7-406">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-400" target="AJ_VUI1XPqa23FB4NZY7-402">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-415" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-400" target="AJ_VUI1XPqa23FB4NZY7-414">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-400" value="Revues spécialisées" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3289" y="1105.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-402" target="AJ_VUI1XPqa23FB4NZY7-406">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-402" value="Sudoc" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3449" y="965.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-403" value="Absence d&#39;articles" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3599" y="985.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-405" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-406" target="AJ_VUI1XPqa23FB4NZY7-402">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-406" value="Isidore" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3449" y="1085.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-407" value="Ressources numériques moissonnables" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3599" y="1105.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-410" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-402" target="AJ_VUI1XPqa23FB4NZY7-403">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3579" y="1155.5" as="sourcePoint" />
+            <mxPoint x="3629" y="1105.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-411" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3549" y="1125.21" as="sourcePoint" />
+            <mxPoint x="3599" y="1125.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-417" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-414" target="AJ_VUI1XPqa23FB4NZY7-416">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-414" value="Systèmes d&#39;abréviations" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3309" y="1205.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-419" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-416" target="AJ_VUI1XPqa23FB4NZY7-418">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-421" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AJ_VUI1XPqa23FB4NZY7-416" target="AJ_VUI1XPqa23FB4NZY7-420">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-416" value="Archäologische&amp;nbsp;&lt;div&gt;Bibliographie (DAI)&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3289" y="1323.5" width="120" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-418" value="Année Philologique" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3150" y="1323.5" width="120" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AJ_VUI1XPqa23FB4NZY7-420" value="American Journal of Archaeology" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3429" y="1323.5" width="120" height="34.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
